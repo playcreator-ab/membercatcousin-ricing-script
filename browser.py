@@ -1,4 +1,4 @@
-import subrocess
+import subprocess
 def install():
     while True:
         print("Installing Browser...")
